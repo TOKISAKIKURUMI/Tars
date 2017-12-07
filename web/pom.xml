@@ -80,7 +80,7 @@
         <dependency>
             <groupId>qq-cloud-central</groupId>
             <artifactId>tars-client</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.3</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
